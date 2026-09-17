@@ -7,6 +7,8 @@ Will wipe your drive if you get your password wrong more than 10 times!
 
 4:3 Aspect ratio
 
+Constant crashes for no reason
+
 5 million data leaks
 
 Sells your data to microsoft
